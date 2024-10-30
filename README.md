@@ -1,4 +1,4 @@
-# Blockchain-Voting-System
+# Blockchain-Coin-Voting-System-v1
 
 ## Overview💜
 
@@ -39,17 +39,17 @@ The working is as follows:
 
 Clone Repo:
 
-```sh
-git clone https://github.com/incredible1105/Token-voting-dapp
-cd Token-voting-dapp
-```
-
 Install Dependencies:
 
 ```sh
 npm install
 ```
 
+Or
+
+```sh
+npm install --legacy-peer-deps
+```
 Run The Application:
 
 ```sh
